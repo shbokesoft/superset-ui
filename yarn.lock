@@ -4391,10 +4391,10 @@
     d3-cloud "^1.2.1"
     prop-types "^15.6.2"
 
-"@superset-ui/react-pivottable@^0.12.6":
-  version "0.12.6"
-  resolved "https://registry.yarnpkg.com/@superset-ui/react-pivottable/-/react-pivottable-0.12.6.tgz#c1d62a71e5f729381f8be0b1653b9a9e353d3dc3"
-  integrity sha512-2+81WL4ocv4VFzgkj3wOBcEgejnJfsJ2D08kMvFfeBt6fhqC35nkendeZMAjl4bFBmzSJIFS6H+agjoeOUyq5A==
+"@superset-ui/react-pivottable@^0.12.8":
+  version "0.12.8"
+  resolved "https://registry.yarnpkg.com/@superset-ui/react-pivottable/-/react-pivottable-0.12.8.tgz#3b7d6cd32719d6510b88b2334afacbb1735afee5"
+  integrity sha512-7DRxX/w1uSQE1pibSe64t1o+fmiP7ZWT2FJkjK510bSJm8NUIPCXtmpK+NKtNZuCteE9sqE7bQxd54SSq2xWKw==
   dependencies:
     immutability-helper "^3.1.1"
     prop-types "^15.7.2"
@@ -9752,9 +9752,9 @@ dns-equal@^1.0.0:
   integrity sha1-s55/HabrCnW6nBcySzR1PEfgZU0=
 
 dns-packet@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.1.tgz#12aa426981075be500b910eedcd0b47dd7deda5a"
-  integrity sha512-0UxfQkMhYAUaZI+xrNZOz/as5KgDU0M/fQ9b6SpkyLbk3GEswDi6PADJVaYJradtRVsRIlF1zLyOodbcTCDzUg==
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.4.tgz#e3455065824a2507ba886c55a89963bb107dec6f"
+  integrity sha512-BQ6F4vycLXBvdrJZ6S3gZewt6rcrks9KBgM9vrhW+knGRqc8uEdT7fuCwloc7nny5xNoMJ17HGH0R/6fpo8ECA==
   dependencies:
     ip "^1.1.0"
     safe-buffer "^5.0.1"
